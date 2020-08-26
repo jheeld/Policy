@@ -1,0 +1,94 @@
+    “Non‐governmental monitoring of local governments increases compliance with central mandates:
+A national‐scale field experiment in China”
+
+    Paper : https://escholarship.org/uc/item/6ss13791
+
+    Critique the policy implementation as well as suggest what I would do differently
+
+
+    Unitary China employs environmental federalism to carry out central government’s mandates at
+local level. For environment policies, it makes sense since political power needs to be wielded
+at the level at which pollution occurs. Local governments are given discretion to prioritize and
+tailor needs to the region. This discretion causes non compliance when monitoring and checks
+aren’t in place. This attributes to China having 7 of the 10 highest polluted cities in the world
+despite having a strong central environment policy. The central government has not been able to
+keep up with monitoring this outcome nationwide. Hence even in the authoritarian setting, non
+compliant cities are not pulled up for their indiscretions. NGOs have historically not been
+involved for the fear of instigating collective action against the Central government. The LCS
+tests NGO’s unbiased public rating on local government’s environmental activities improves
+compliance. It tests for public and media sentiment to check if ratings push people to engage
+more with local government. It also tests if NGO interventions causing for collective action as
+public and media are now informed.
+
+    A randomized field experiment is run and bootstrapping sampling is employed to estimate error
+rate. The results are estimated to be  90% confidence intervals. Caveats that could affect the
+results have been noted but not quantified. The title could have been NGOs Monitoring
+Implementation by Local Governments of Central Mandates in China which is shorter and less
+technical. The key insights section is missing and replaced with an abstract that doesn’t
+quantify the results of the experiment.
+
+    The ratings are already published for a group of cities deemed important by the Center. I.e.
+Centers of Business, Coastal cities. Coastal and business hubs may have better NGO ties already
+but they also tend to cause more pollutants. This is due to dominance of big firms, factories and
+manufacturing. The LCS prefers to exclude those cities but could have incorporated a continuous
+data analysis looking at before and after scores. LCS doesn’t justify choosing the high scoring
+cohort. It makes sense to sample from the same level of compliance but choosing high levels is
+not justified. We want to push the lower tier complaint cities to better levels. The current
+methodology’s sample may be biased toward better transparency already. There is also no mention
+of other confounding factors such as population, large firm dominance, manufacturing industries,
+prevalence of NGOs etc. The study mentions the data collection for monitoring took 1 week, LCS
+should have chosen a larger number of cities by theory of large numbers. Unless the cities were
+withheld to aid further studies. The LSC does mention spillage where a province’s treatment city
+caused an indirect increase in control cities. Even though cities are measuring units, we should
+have looked at segregating groups at the provincial level.
+
+    The visualizations are informative but also complex. There are the same symbols used for the
+different data in Fig 2. Fig 2.b has a data heavy Y-Axis causing information overload. For Fig 3,
+rather than having 4 different graphs, the information could have been compiled into one graph
+chart with legends. The variant of box whisker plot chosen throughout is not as intuitive like
+[4].
+
+    Data presented in the Local and Central Government Strategies section is hard and technical
+to read. It could have edited the empirical equations and only kept the subtext. LCS overtly
+relies on previous case study and hence ranks vague on its methodology. LCS doesn’t account for
+the authoritarian nature of China [5] impacting the news items since there is limited freedom of
+press. There are two outside links not factored in. One, there is also a chance of engagement
+from the public putting additional pressure on officials since there would be a fear of this
+turning into a nationally scrutinized issue. Secondly, China’s environment could be under
+international media scrutiny.
+
+    The important part of this study is that it relies on transparency in measurement to
+attribute to decrease in pollution. Studies that show this are cited, but we cannot correlate the
+relationship from this study and we recommend adding a section in measurement for emissions in
+the method. Hence I don’t think the solution is aptly responding to market failure yet. Seeing a
+decrease in emissions would solve the policy problem at hand if it were related to only the
+environment. There is a need to see if NGOs work in authoritarian governments, it does a good job
+by demonstrating at city level. The policy problem is caused by information coordination. The
+central government has the funds and is able to reprimand the local officials with demotion or
+termination. The local officials have to juggle the various priorities and would often at times
+do an economic vs environment trade off when handed that discretion. Hence monitoring to avoid
+principal agent slippage is necessary. NGOs are useful in this regard as they are unbiased
+organizations. But as noted in [5], local monitoring can sometimes cause short term improvements
+at the cost of long term improvements. Hence the Central government should standardize a few
+environmental processes that have been scientifically proven. There is also concern that NGO
+funding may be taken away [6] , if it looks like environmental activism. Which makes NGOs depend
+on the central government for funding, making them unbiased and causing a new principal agent
+problem.
+
+    I would suggest the policymaker to scale up the case study. It would also have to incorporate
+the bigger cities which were excluded and perform a continuous RCT on them. We also want more
+information on cities in terms of firm and manufacturing size. Funding for NGOs should be
+separate from local governments or powers. Lastly policy maker should make a international
+declaration of results to gain media attention. Hence we can eliminate Chinas freedom of press
+limitation by putting an onus on outside entities for monitoring as well. This ensure its place
+on agenda setting due to international scrutiny.
+
+
+References :
+1. Case Study https://escholarship.org/uc/item/6ss13791
+2. Non Governmental Organization (NGO)
+3. Pollution Information Transparency Index (PITI)
+4. Box Whisker Plot https://datavizcatalogue.com/methods/box_plot.html
+5. Green China https://newint.org/features/2019/10/16/how-green-china
+6. Yale https://e360.yale.edu/features/as-it-looks-to-go-green-china-keeps-a-tight-lid-on-dissent
+7. UMich Law Review https://repository.law.umich.edu/cgi/viewcontent.cgi?article=1401&context=mjlr
